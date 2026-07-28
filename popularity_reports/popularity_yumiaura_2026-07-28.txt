@@ -1,0 +1,362 @@
+# GitHub Popularity Report for yumiaura
+# Date: 2026-07-28
+# Public repos: 31
+
+## myCat
+URL: https://github.com/yumiaura/myCat
+Stars: 197
+Forks: 19
+Watchers: 197
+Open issues: 1
+Language: Python
+Size: 5652 KB
+Created: 2025-10-21
+Updated: 2026-07-28
+
+## followme
+URL: https://github.com/yumiaura/followme
+Stars: 59
+Forks: 7
+Watchers: 59
+Open issues: 0
+Language: Python
+Size: 80 KB
+Created: 2026-04-23
+Updated: 2026-07-28
+
+## audio8bit
+URL: https://github.com/yumiaura/audio8bit
+Stars: 41
+Forks: 4
+Watchers: 41
+Open issues: 2
+Language: Python
+Size: 205 KB
+Created: 2026-06-04
+Updated: 2026-07-28
+
+## aicommit
+URL: https://github.com/yumiaura/aicommit
+Stars: 34
+Forks: 6
+Watchers: 34
+Open issues: 2
+Language: Python
+Size: 97 KB
+Created: 2026-05-22
+Updated: 2026-07-28
+
+## SubForge
+URL: https://github.com/yumiaura/SubForge
+Stars: 19
+Forks: 2
+Watchers: 19
+Open issues: 0
+Language: Python
+Size: 23 KB
+Created: 2026-05-22
+Updated: 2026-07-26
+
+## Turing-An_AI_Integrated_Real-time_Assistant
+URL: https://github.com/yumiaura/Turing-An_AI_Integrated_Real-time_Assistant
+Stars: 19
+Forks: 1
+Watchers: 19
+Open issues: 0
+Language: N/A
+Size: 144 KB
+Created: 2025-11-02
+Updated: 2026-07-16
+
+## myAssistant
+URL: https://github.com/yumiaura/myAssistant
+Stars: 19
+Forks: 2
+Watchers: 19
+Open issues: 0
+Language: Python
+Size: 21 KB
+Created: 2025-10-24
+Updated: 2026-07-16
+
+## RedditSync
+URL: https://github.com/yumiaura/RedditSync
+Stars: 17
+Forks: 4
+Watchers: 17
+Open issues: 0
+Language: Python
+Size: 168 KB
+Created: 2025-10-18
+Updated: 2026-07-25
+
+## yumiaura
+URL: https://github.com/yumiaura/yumiaura
+Stars: 13
+Forks: 4
+Watchers: 13
+Open issues: 3
+Language: N/A
+Size: 37 KB
+Created: 2025-10-18
+Updated: 2026-07-22
+
+## code-orbit
+URL: https://github.com/yumiaura/code-orbit
+Stars: 13
+Forks: 0
+Watchers: 13
+Open issues: 0
+Language: Python
+Size: 9038 KB
+Created: 2026-04-27
+Updated: 2026-07-16
+
+## myRoomie
+URL: https://github.com/yumiaura/myRoomie
+Stars: 11
+Forks: 0
+Watchers: 11
+Open issues: 0
+Language: Python
+Size: 141 KB
+Created: 2026-06-10
+Updated: 2026-07-25
+
+## MediaToTextBot
+URL: https://github.com/yumiaura/MediaToTextBot
+Stars: 11
+Forks: 1
+Watchers: 11
+Open issues: 0
+Language: N/A
+Size: 261 KB
+Created: 2025-10-18
+Updated: 2026-07-16
+
+## 3270NerdFont
+URL: https://github.com/yumiaura/3270NerdFont
+Stars: 8
+Forks: 0
+Watchers: 8
+Open issues: 0
+Language: Shell
+Size: 6880 KB
+Created: 2025-10-09
+Updated: 2026-07-16
+
+## Qwen3ASRDemo
+URL: https://github.com/yumiaura/Qwen3ASRDemo
+Stars: 8
+Forks: 0
+Watchers: 8
+Open issues: 1
+Language: Python
+Size: 5 KB
+Created: 2026-05-22
+Updated: 2026-07-16
+
+## myPhotos
+URL: https://github.com/yumiaura/myPhotos
+Stars: 6
+Forks: 1
+Watchers: 6
+Open issues: 0
+Language: N/A
+Size: 6663 KB
+Created: 2026-07-17
+Updated: 2026-07-25
+
+## yandexfreetranslate
+URL: https://github.com/yumiaura/yandexfreetranslate
+Stars: 6
+Forks: 0
+Watchers: 6
+Open issues: 0
+Language: N/A
+Size: 67 KB
+Created: 2025-10-19
+Updated: 2026-07-16
+
+## Orchis-theme
+URL: https://github.com/yumiaura/Orchis-theme
+Stars: 6
+Forks: 0
+Watchers: 6
+Open issues: 0
+Language: N/A
+Size: 115020 KB
+Created: 2025-11-02
+Updated: 2026-07-16
+
+## LoveBites
+URL: https://github.com/yumiaura/LoveBites
+Stars: 6
+Forks: 0
+Watchers: 6
+Open issues: 0
+Language: Lua
+Size: 51202 KB
+Created: 2025-10-09
+Updated: 2026-07-16
+
+## codecat
+URL: https://github.com/yumiaura/codecat
+Stars: 6
+Forks: 0
+Watchers: 6
+Open issues: 0
+Language: Python
+Size: 43 KB
+Created: 2026-04-23
+Updated: 2026-07-16
+
+## myAura
+URL: https://github.com/yumiaura/myAura
+Stars: 5
+Forks: 0
+Watchers: 5
+Open issues: 0
+Language: CSS
+Size: 251 KB
+Created: 2026-07-05
+Updated: 2026-07-22
+
+## myEmojiboard
+URL: https://github.com/yumiaura/myEmojiboard
+Stars: 5
+Forks: 0
+Watchers: 5
+Open issues: 1
+Language: Python
+Size: 7 KB
+Created: 2025-10-30
+Updated: 2026-07-16
+
+## post-fiat-signals
+URL: https://github.com/yumiaura/post-fiat-signals
+Stars: 5
+Forks: 0
+Watchers: 5
+Open issues: 0
+Language: N/A
+Size: 2372 KB
+Created: 2026-04-26
+Updated: 2026-07-16
+
+## myViewCount
+URL: https://github.com/yumiaura/myViewCount
+Stars: 5
+Forks: 1
+Watchers: 5
+Open issues: 0
+Language: Python
+Size: 5 KB
+Created: 2025-11-05
+Updated: 2026-07-16
+
+## voicerecorder
+URL: https://github.com/yumiaura/voicerecorder
+Stars: 4
+Forks: 0
+Watchers: 4
+Open issues: 0
+Language: Python
+Size: 38 KB
+Created: 2026-04-26
+Updated: 2026-07-16
+
+## topica
+URL: https://github.com/yumiaura/topica
+Stars: 4
+Forks: 0
+Watchers: 4
+Open issues: 0
+Language: N/A
+Size: 7817 KB
+Created: 2026-06-16
+Updated: 2026-07-16
+
+## depth-anything.cpp
+URL: https://github.com/yumiaura/depth-anything.cpp
+Stars: 3
+Forks: 0
+Watchers: 3
+Open issues: 0
+Language: N/A
+Size: 6111 KB
+Created: 2026-07-09
+Updated: 2026-07-27
+
+## papirus-icon-theme
+URL: https://github.com/yumiaura/papirus-icon-theme
+Stars: 3
+Forks: 0
+Watchers: 3
+Open issues: 0
+Language: N/A
+Size: 345802 KB
+Created: 2025-11-02
+Updated: 2026-07-16
+
+## mailer
+URL: https://github.com/yumiaura/mailer
+Stars: 3
+Forks: 0
+Watchers: 3
+Open issues: 0
+Language: Python
+Size: 734 KB
+Created: 2026-04-24
+Updated: 2026-07-16
+
+## astro-caster
+URL: https://github.com/yumiaura/astro-caster
+Stars: 2
+Forks: 1
+Watchers: 2
+Open issues: 0
+Language: TypeScript
+Size: 4097 KB
+Created: 2026-07-09
+Updated: 2026-07-16
+
+## chronicle
+URL: https://github.com/yumiaura/chronicle
+Stars: 1
+Forks: 0
+Watchers: 1
+Open issues: 0
+Language: N/A
+Size: 571 KB
+Created: 2026-07-24
+Updated: 2026-07-25
+
+## tone
+URL: https://github.com/yumiaura/tone
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 17241 KB
+Created: 2026-07-26
+Updated: 2026-07-27
+
+## Summary
+Total repos: 31
+Total stars: 539
+Total forks: 53
+Total open issues: 10
+
+## Top 10 by stars
+  197 ⭐   19 🍴  myCat
+   59 ⭐    7 🍴  followme
+   41 ⭐    4 🍴  audio8bit
+   34 ⭐    6 🍴  aicommit
+   19 ⭐    2 🍴  SubForge
+   19 ⭐    1 🍴  Turing-An_AI_Integrated_Real-time_Assistant
+   19 ⭐    2 🍴  myAssistant
+   17 ⭐    4 🍴  RedditSync
+   13 ⭐    4 🍴  yumiaura
+   13 ⭐    0 🍴  code-orbit

@@ -1,0 +1,461 @@
+# GitHub Popularity Report for m5it
+# Date: 2026-07-28
+# Public repos: 40
+
+## esp-kos-bridge
+URL: https://github.com/m5it/esp-kos-bridge
+Stars: 4
+Forks: 2
+Watchers: 4
+Open issues: 2
+Language: C
+Size: 12387 KB
+Created: 2022-12-12
+Updated: 2023-08-15
+
+## AIIA
+URL: https://github.com/m5it/AIIA
+Stars: 1
+Forks: 0
+Watchers: 1
+Open issues: 0
+Language: Python
+Size: 60924 KB
+Created: 2025-07-30
+Updated: 2026-07-28
+
+## koslenium_driver
+URL: https://github.com/m5it/koslenium_driver
+Stars: 1
+Forks: 0
+Watchers: 1
+Open issues: 0
+Language: Java
+Size: 46088 KB
+Created: 2026-05-28
+Updated: 2026-07-28
+
+## logic-of-kos
+URL: https://github.com/m5it/logic-of-kos
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Shell
+Size: 842 KB
+Created: 2023-02-25
+Updated: 2026-07-28
+
+## news
+URL: https://github.com/m5it/news
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 330 KB
+Created: 2026-06-04
+Updated: 2026-07-28
+
+## KosDB
+URL: https://github.com/m5it/KosDB
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 10840 KB
+Created: 2026-07-04
+Updated: 2026-07-28
+
+## KosDWM5
+URL: https://github.com/m5it/KosDWM5
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 3588 KB
+Created: 2026-07-24
+Updated: 2026-07-28
+
+## leveldb_for_KosDB
+URL: https://github.com/m5it/leveldb_for_KosDB
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: C++
+Size: 1878 KB
+Created: 2026-07-27
+Updated: 2026-07-27
+
+## plyvel_for_KosDB
+URL: https://github.com/m5it/plyvel_for_KosDB
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Cython
+Size: 401 KB
+Created: 2026-07-27
+Updated: 2026-07-27
+
+## plyvel
+URL: https://github.com/m5it/plyvel
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 1994 KB
+Created: 2026-07-27
+Updated: 2026-07-27
+
+## AIIAEditor
+URL: https://github.com/m5it/AIIAEditor
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 1406 KB
+Created: 2026-07-25
+Updated: 2026-07-27
+
+## koslenium_www
+URL: https://github.com/m5it/koslenium_www
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Java
+Size: 196 KB
+Created: 2026-05-30
+Updated: 2026-07-25
+
+## KosDWM
+URL: https://github.com/m5it/KosDWM
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 119 KB
+Created: 2026-03-22
+Updated: 2026-07-24
+
+## KosCMS
+URL: https://github.com/m5it/KosCMS
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 93772 KB
+Created: 2026-07-06
+Updated: 2026-07-21
+
+## leveldb
+URL: https://github.com/m5it/leveldb
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 1848 KB
+Created: 2026-07-21
+Updated: 2026-07-21
+
+## xenco
+URL: https://github.com/m5it/xenco
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 472 KB
+Created: 2026-07-12
+Updated: 2026-07-21
+
+## madS0rt-rust
+URL: https://github.com/m5it/madS0rt-rust
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Rust
+Size: 18 KB
+Created: 2026-07-21
+Updated: 2026-07-21
+
+## madS0rt
+URL: https://github.com/m5it/madS0rt
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 69 KB
+Created: 2026-07-19
+Updated: 2026-07-19
+
+## KosXER
+URL: https://github.com/m5it/KosXER
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 1910 KB
+Created: 2026-07-15
+Updated: 2026-07-19
+
+## KosBox
+URL: https://github.com/m5it/KosBox
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: C
+Size: 27356 KB
+Created: 2026-07-17
+Updated: 2026-07-17
+
+## gmd
+URL: https://github.com/m5it/gmd
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 378 KB
+Created: 2026-07-15
+Updated: 2026-07-17
+
+## fwtrash
+URL: https://github.com/m5it/fwtrash
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 765 KB
+Created: 2023-07-03
+Updated: 2026-07-17
+
+## fwspoof
+URL: https://github.com/m5it/fwspoof
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 3340 KB
+Created: 2026-02-07
+Updated: 2026-07-13
+
+## nginx
+URL: https://github.com/m5it/nginx
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 75874 KB
+Created: 2026-07-13
+Updated: 2026-07-13
+
+## tmux
+URL: https://github.com/m5it/tmux
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 21264 KB
+Created: 2026-07-12
+Updated: 2026-07-12
+
+## rad-tui-BASIC
+URL: https://github.com/m5it/rad-tui-BASIC
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 537 KB
+Created: 2026-07-10
+Updated: 2026-07-10
+
+## KosFM
+URL: https://github.com/m5it/KosFM
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 1107 KB
+Created: 2026-07-09
+Updated: 2026-07-10
+
+## OurSSH
+URL: https://github.com/m5it/OurSSH
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 86 KB
+Created: 2026-07-08
+Updated: 2026-07-08
+
+## KosIrcBouncer
+URL: https://github.com/m5it/KosIrcBouncer
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 96 KB
+Created: 2026-07-06
+Updated: 2026-07-06
+
+## four_in_line
+URL: https://github.com/m5it/four_in_line
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 60 KB
+Created: 2026-07-06
+Updated: 2026-07-06
+
+## AIIA_DATASETS
+URL: https://github.com/m5it/AIIA_DATASETS
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 987 KB
+Created: 2026-07-06
+Updated: 2026-07-06
+
+## aiia_collecting_data
+URL: https://github.com/m5it/aiia_collecting_data
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 0 KB
+Created: 2026-05-31
+Updated: 2026-05-31
+
+## sdb
+URL: https://github.com/m5it/sdb
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Shell
+Size: 18 KB
+Created: 2026-01-28
+Updated: 2026-05-26
+
+## LLMTeacher
+URL: https://github.com/m5it/LLMTeacher
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: Python
+Size: 711 KB
+Created: 2026-04-29
+Updated: 2026-05-04
+
+## ollama-works-good
+URL: https://github.com/m5it/ollama-works-good
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 43164 KB
+Created: 2025-05-01
+Updated: 2025-05-01
+
+## esp-iot-bridge
+URL: https://github.com/m5it/esp-iot-bridge
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: N/A
+Size: 10421 KB
+Created: 2022-11-27
+Updated: 2022-11-27
+
+## async_http_panel
+URL: https://github.com/m5it/async_http_panel
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: C++
+Size: 13 KB
+Created: 2022-10-21
+Updated: 2022-10-21
+
+## http_panel
+URL: https://github.com/m5it/http_panel
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 1
+Language: C++
+Size: 10013 KB
+Created: 2022-09-26
+Updated: 2022-10-07
+
+## DHT_sensor_library_modified
+URL: https://github.com/m5it/DHT_sensor_library_modified
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: C++
+Size: 16 KB
+Created: 2022-09-30
+Updated: 2022-09-30
+
+## hackercouch
+URL: https://github.com/m5it/hackercouch
+Stars: 0
+Forks: 0
+Watchers: 0
+Open issues: 0
+Language: CSS
+Size: 2113 KB
+Created: 2016-08-23
+Updated: 2016-08-23
+
+## Summary
+Total repos: 40
+Total stars: 6
+Total forks: 2
+Total open issues: 3
+
+## Top 10 by stars
+    4 ⭐    2 🍴  esp-kos-bridge
+    1 ⭐    0 🍴  AIIA
+    1 ⭐    0 🍴  koslenium_driver
+    0 ⭐    0 🍴  logic-of-kos
+    0 ⭐    0 🍴  news
+    0 ⭐    0 🍴  KosDB
+    0 ⭐    0 🍴  KosDWM5
+    0 ⭐    0 🍴  leveldb_for_KosDB
+    0 ⭐    0 🍴  plyvel_for_KosDB
+    0 ⭐    0 🍴  plyvel
